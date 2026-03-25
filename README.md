@@ -4,12 +4,12 @@ A modern movie discovery web app built with React that allows users to search, f
 
 ## Features 
 
-🔍 Search for movies via API
-🎭 Filter movies by genre
-❤️ Add and remove favorites
-🎬 Display movie details (title, year, genres)
-⚡ Fast and responsive UI
-🌐 Data fetched from external API
+- 🔍 Search for movies via API
+- 🎭 Filter movies by genre
+- ❤️ Add and remove favorites
+- 🎬 Display movie details (title, year, genres)
+- ⚡ Fast and responsive UI
+- 🌐 Data fetched from external API
 
 ## Tech Stack  
 
