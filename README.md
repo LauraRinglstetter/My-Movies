@@ -38,5 +38,6 @@ React, JavaScript (ES6), CSS, REST API integration, Context API for favorites
 - Improve UI/UX and animations
 - Add sorting (rating, release date)
 
-##🌍 API
+## 🌍 API
+
 This project uses data from The Movie Database (TMDB).
