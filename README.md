@@ -1,7 +1,9 @@
 #Movie App 
+
 A modern movie discovery web app built with React that allows users to search, filter, and save their favorite movies.
 
 ##Features 
+
 🔍 Search for movies via API
 🎭 Filter movies by genre
 ❤️ Add and remove favorites
@@ -10,15 +12,18 @@ A modern movie discovery web app built with React that allows users to search, f
 🌐 Data fetched from external API
 
 ##Tech Stack  
+
 React, JavaScript (ES6), CSS, REST API integration, Context API for favorites
 
 ##Setup & Installation  
+
 git clone https://github.com/LauraRinglstetter/My-Movies.git
 cd my-movie-frontend
 npm install
 npm run dev
 
 ##What I Learned:  
+
 - Working with external APIs and handling asynchronous data
 - Managing state in React using hooks
 - Structuring a scalable frontend project
@@ -26,6 +31,7 @@ npm run dev
 - Handling environment variables securely
 
 ##Future Improvements:  
+
 - Add user authentication
 - Persist favorites in a database
 - Add movie detail pages
